@@ -50,7 +50,7 @@ This is the most important part for the business owner. You don't need to change
 
 ---
 
-## 🛠️ How to start this on your computer?
+##  How to start this on your computer?
 
 It is very simple, just follow these steps:
 
